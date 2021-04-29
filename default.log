@@ -1,0 +1,13 @@
+2021.04.29, 07:48:10.0467 UTC -> This is first log
+2021.04.29, 08:24:42.0486 UTC -> Successfully extracted all the users list
+2021.04.29, 08:25:24.0197 UTC -> User creted successfully!
+2021.04.29, 08:25:36.0845 UTC -> User detail successfully updated with user_id = 2
+2021.04.29, 08:25:50.0797 UTC -> User deleted successfully with user_id = 2
+2021.04.29, 08:26:26.0292 UTC -> Successfully cancelled the scheduled job with the name: job1
+2021.04.29, 08:27:01.0216 UTC -> Successfully rescheduled the scheduled job with the name: job1
+2021.04.29, 08:27:11.0264 UTC -> Successfully rescheduled the scheduled job with the name: job1
+2021.04.29, 11:22:02.0204 UTC -> Successfully extracted all the users list
+2021.04.29, 11:23:25.0067 UTC -> Successfully extracted all the users list
+2021.04.29, 11:29:51.0270 UTC -> User created successfully with 4
+2021.04.29, 11:31:15.0662 UTC -> User detail successfully updated with user_id = 2
+2021.04.29, 11:32:25.0029 UTC -> User deleted successfully with user_id = 2
