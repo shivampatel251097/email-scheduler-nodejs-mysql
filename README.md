@@ -86,8 +86,8 @@ Body:  raw/JSON
 "{
     "jobName":"job1",
     "dateTime":"29/03/2021T13:59:00",
-    "subject": "Holi Celebration 2K21",
-    "html": "<h2>Happy Holi to you and your family!</h2><p>Please visit Plenty mall at 9 Pm tomorrow for Holi celebration</p>"
+    "subject": "Test Mail",
+    "html": "<p>This is test email.</p>"
 
 }"
 Response: "Job scheduled successfully and Mail will be sent to all the Subscribers at the sheduled time!"
